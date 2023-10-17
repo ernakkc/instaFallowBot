@@ -41,7 +41,7 @@ pip install requirements.py
 
 
 
-#Usage
+##Usage
 1. Edit userInfo.py file
 
 write username and password
@@ -52,3 +52,8 @@ write username and password
 ```BASH
 python app.py
 ```
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
