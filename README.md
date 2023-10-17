@@ -54,7 +54,14 @@ write username and password
 python app.py
 ```
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://telegra.ph/file/81f475933322d3883dd85.png">
+</picture>
+
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+
