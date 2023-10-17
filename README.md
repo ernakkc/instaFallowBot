@@ -6,6 +6,9 @@
 - [Usage](#usage)
 - [License](#license)
 
+
+
+
 ## Installation
 
 1. Clone the repository:
@@ -18,9 +21,13 @@ cd instaFallowBot
 
 ```
 
+
+
 2. Install webdriver
 
 Install the chrome webdriver ->  [Webdriver](https://chromedriver.chromium.org/downloads)
+
+
 
 3. Install requirements
 
@@ -31,10 +38,15 @@ pip install requirements.py
 ```
 
 
+
+
+
 #Usage
 1. Edit userInfo.py file
 
 write username and password
+
+
 
 2. Run app.py file
 ```BASH
