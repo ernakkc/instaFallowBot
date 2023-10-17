@@ -10,13 +10,13 @@
 
 1. Clone the repository:
 
-'''
+```
 
 git clone https://github.com/ernakkc/instaFallowBot.git
 
 cd instaFallowBot
 
-'''
+```
 
 2. Install webdriver
 
@@ -24,11 +24,11 @@ Install the chrome webdriver ->  [Webdriver](https://chromedriver.chromium.org/d
 
 3. Install requirements
 
-'''
+```
 
 pip install requirements.py
 
-'''
+```
 
 
 #Usage
@@ -37,6 +37,6 @@ pip install requirements.py
 write username and password
 
 2. Run app.py file
-'''
+```
 python app.py
-'''
+```
